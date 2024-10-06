@@ -1,0 +1,4 @@
+The RNN model achieved moderate training accuracy (70-80%) but exhibited overfitting, with validation accuracy dropping to 40-50%. The ReLU activation function 
+improved accuracy over Softmax. Conversely, the LSTM model performed better, showing training accuracy of 79-86% and validation accuracy of 77-83%, 
+indicating better generalization. LSTM’s architecture allowed it to capture long-term dependencies in sequential data, making it more effective for 
+activity classification using temporal mHealth data.
